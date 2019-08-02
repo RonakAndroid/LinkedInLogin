@@ -72,10 +72,9 @@ This provides the webview to Login with Linked in and getting callback to your a
     }
     
    ```
+   
 ### Requirments   
 
 * Android X
 * Min sdk >=16
     
-
-
